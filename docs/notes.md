@@ -24,3 +24,4 @@ Notes and usage details for leptos-shadcn-ui.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
